@@ -1,0 +1,5 @@
+# ugc_edit.py intermediates (rebuilt on every run)
+video-kit/ugc-edit/jobs/*/work/a16.wav
+video-kit/ugc-edit/jobs/*/work/final.mp4
+video-kit/ugc-edit/jobs/*/work/*-silent.mp4
+video-kit/ugc-edit/jobs/*/work/v?.wav
